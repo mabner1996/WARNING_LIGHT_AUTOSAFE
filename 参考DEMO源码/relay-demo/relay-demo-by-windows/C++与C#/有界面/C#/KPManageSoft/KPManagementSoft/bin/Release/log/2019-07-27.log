@@ -1,0 +1,5 @@
+2019-07-27 09:53:44:207   系统启动。。。
+2019-07-27 09:53:46:512   系统关闭。。。
+2019-07-27 09:53:46:517   ListeningThread:一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+2019-07-27 09:53:46:549   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。

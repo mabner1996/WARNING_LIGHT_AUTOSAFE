@@ -1,0 +1,15 @@
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/bin/Debug/net6.0/TcpServer
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/bin/Debug/net6.0/TcpServer.deps.json
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/bin/Debug/net6.0/TcpServer.runtimeconfig.json
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/bin/Debug/net6.0/TcpServer.dll
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/bin/Debug/net6.0/ref/TcpServer.dll
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/bin/Debug/net6.0/TcpServer.pdb
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/obj/Debug/net6.0/TcpServer.csproj.AssemblyReference.cache
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/obj/Debug/net6.0/TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/obj/Debug/net6.0/TcpServer.AssemblyInfoInputs.cache
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/obj/Debug/net6.0/TcpServer.AssemblyInfo.cs
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/obj/Debug/net6.0/TcpServer.csproj.CoreCompileInputs.cache
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/obj/Debug/net6.0/TcpServer.dll
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/obj/Debug/net6.0/ref/TcpServer.dll
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/obj/Debug/net6.0/TcpServer.pdb
+/home/wky/home/wky/relay-demo-by-linux/csharp/TcpServer/obj/Debug/net6.0/TcpServer.genruntimeconfig.cache

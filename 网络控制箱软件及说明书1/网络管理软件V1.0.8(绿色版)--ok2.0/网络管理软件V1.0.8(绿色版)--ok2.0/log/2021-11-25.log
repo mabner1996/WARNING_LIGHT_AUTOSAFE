@@ -1,0 +1,899 @@
+2021-11-25 14:50:25:544   ???????
+2021-11-25 14:50:55:636   ???????
+2021-11-25 14:53:46:452   ???????
+2021-11-25 14:55:45:890   ListeningThread:A blocking operation was interrupted by a call to WSACancelBlockingCall
+2021-11-25 14:55:45:890   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:907   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:907   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:910   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:910   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:910   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:910   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:913   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:913   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:913   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:913   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:913   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:916   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:916   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:916   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:918   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:919   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:919   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:919   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:919   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:923   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:923   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:923   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:926   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:927   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:927   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:927   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:927   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:930   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:931   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:932   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:934   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:935   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:935   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:936   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:936   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:938   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:939   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:939   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:939   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:942   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:942   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:944   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:945   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:946   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:946   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:946   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:946   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:949   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:949   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:949   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:952   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:952   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:953   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:954   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:955   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:955   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:955   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:955   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:958   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:958   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:958   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:961   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:961   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:963   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:964   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:965   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:965   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:965   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:968   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:968   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:968   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:971   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:971   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:972   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:973   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:973   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:973   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:976   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:976   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:976   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:976   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:979   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:981   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:982   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:982   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:982   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:985   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:985   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:985   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:985   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:988   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:988   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:989   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:990   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:990   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:993   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:994   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:995   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:995   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:995   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:997   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:998   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:998   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:45:998   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:001   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:002   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:003   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:004   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:005   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:006   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:007   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:007   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:007   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:010   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:012   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:012   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:012   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:015   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:015   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:015   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:023   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:023   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:027   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:027   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:027   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:030   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:031   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:031   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:033   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:034   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:034   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:034   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:034   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:037   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:037   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:038   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:039   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:039   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:039   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:039   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:042   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:042   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:042   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:045   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:045   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:047   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:048   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:048   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:048   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:048   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:051   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:051   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:051   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:051   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:054   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:054   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:055   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:056   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:056   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:056   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:059   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:059   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:059   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:059   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:062   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:062   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:062   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:065   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:065   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:066   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:066   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:068   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:069   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:069   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:069   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:069   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:072   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:072   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:074   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:075   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:075   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:075   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:078   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:079   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:079   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:079   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:079   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:082   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:082   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:082   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:084   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:085   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:086   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:086   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:086   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:086   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:089   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:089   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:089   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:089   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:092   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:093   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:095   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:096   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:096   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:096   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:099   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:099   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:099   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:099   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:102   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:103   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:103   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:103   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:106   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:106   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:106   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:106   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:109   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:109   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:112   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:113   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:113   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:113   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:116   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:116   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:116   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:116   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:119   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:46:120   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:836   ???????
+2021-11-25 14:55:57:836   ListeningThread:A blocking operation was interrupted by a call to WSACancelBlockingCall
+2021-11-25 14:55:57:848   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:848   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:848   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:848   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:848   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:848   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:848   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:848   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:860   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:860   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:860   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:860   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:860   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:860   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:860   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:860   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:860   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:871   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:872   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:872   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:874   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:874   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:875   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:875   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:881   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:885   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:887   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:888   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:889   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:889   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:891   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:892   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:892   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 14:55:57:897   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:50:093   ???????
+2021-11-25 15:01:55:766   ListeningThread:A blocking operation was interrupted by a call to WSACancelBlockingCall
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:782   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:797   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:810   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:811   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:811   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:811   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:811   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:811   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:811   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:811   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:811   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:811   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:811   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:811   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:811   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:819   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:820   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:821   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:822   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:822   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:822   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:824   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:825   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:825   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:827   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:828   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:828   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:828   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:830   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:831   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:831   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:833   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:834   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:834   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:835   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:836   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:836   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:838   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:839   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:839   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:839   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:839   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:843   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:844   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:845   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:846   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:846   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:847   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:848   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:848   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:848   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:848   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:851   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:852   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:852   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:854   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:855   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:856   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:856   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:856   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:859   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:860   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:861   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:861   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:862   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:862   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:862   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:862   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:862   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:862   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:862   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:862   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:862   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:869   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:870   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:871   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:871   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:872   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:872   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:874   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:01:55:880   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:143   ???????
+2021-11-25 15:02:31:143   ListeningThread:A blocking operation was interrupted by a call to WSACancelBlockingCall
+2021-11-25 15:02:31:156   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:158   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:158   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:159   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:160   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:160   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:160   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:160   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:160   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:160   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:160   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:170   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:173   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:176   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:192   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:193   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:193   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:193   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:193   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:193   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:193   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:193   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:205   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:205   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:205   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:209   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:210   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:211   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:212   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:212   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:212   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:212   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:212   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:220   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:222   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 15:02:31:223   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:47:59:777   ???????
+2021-11-25 16:48:56:091   ListeningThread:A blocking operation was interrupted by a call to WSACancelBlockingCall
+2021-11-25 16:48:56:105   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:105   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:105   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:105   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:113   ???????
+2021-11-25 16:48:56:113   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:113   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:130   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:135   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:135   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:143   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:146   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:155   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:158   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:159   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:159   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:159   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:159   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:162   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:163   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:163   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:165   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:166   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:166   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+2021-11-25 16:48:56:168   ListeningThread:Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.

@@ -1,0 +1,5 @@
+1、以python 2.7为例，cmd进入python安装目录下的Scripts文件夹目录下
+2、cmd 进入Scripts文件夹pip install pyinstaller 
+3、使用 pyinstaller 命令
+ 　  pyinstaller -F --icon=my.ico test.py #打包成exe，并设置图标
+　　pyinstaller -F -w yourfilename.py #打包成exe,且不包含控制台

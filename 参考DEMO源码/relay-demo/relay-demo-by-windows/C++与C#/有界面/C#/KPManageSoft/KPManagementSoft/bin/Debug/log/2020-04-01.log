@@ -1,0 +1,21 @@
+2020-04-01 18:08:23:839   系统启动。。。
+2020-04-01 18:08:26:894   系统关闭。。。
+2020-04-01 18:08:26:901   ListeningThread:一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+2020-04-01 18:08:26:907   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-04-01 18:08:26:915   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-04-01 18:08:26:921   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-04-01 18:08:26:928   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-04-01 18:08:26:933   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-04-01 18:08:26:940   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-04-01 18:08:26:976   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-04-01 18:08:27:034   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-04-01 18:08:27:121   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。

@@ -1,0 +1,14 @@
+D:\Code\KPManageSoft\KPManageSoft\KPManagementSoft\bin\x86\Debug\网络继电器管理软件.exe.config
+D:\Code\KPManageSoft\KPManageSoft\KPManagementSoft\bin\x86\Debug\网络继电器管理软件.exe.manifest
+D:\Code\KPManageSoft\KPManageSoft\KPManagementSoft\bin\x86\Debug\网络继电器管理软件.application
+D:\Code\KPManageSoft\KPManageSoft\KPManagementSoft\bin\x86\Debug\网络继电器管理软件.exe
+D:\Code\KPManageSoft\KPManageSoft\KPManagementSoft\bin\x86\Debug\网络继电器管理软件.pdb
+D:\Code\KPManageSoft\KPManageSoft\KPManagementSoft\obj\x86\Debug\KPManagementSoft.csprojAssemblyReference.cache
+D:\Code\KPManageSoft\KPManageSoft\KPManagementSoft\obj\x86\Debug\KPManagementSoft.FrmMain.resources
+D:\Code\KPManageSoft\KPManageSoft\KPManagementSoft\obj\x86\Debug\KPManagementSoft.Properties.Resources.resources
+D:\Code\KPManageSoft\KPManageSoft\KPManagementSoft\obj\x86\Debug\KPManagementSoft.csproj.GenerateResource.cache
+D:\Code\KPManageSoft\KPManageSoft\KPManagementSoft\obj\x86\Debug\KPManagementSoft.csproj.CoreCompileInputs.cache
+D:\Code\KPManageSoft\KPManageSoft\KPManagementSoft\obj\x86\Debug\网络继电器管理软件.exe.manifest
+D:\Code\KPManageSoft\KPManageSoft\KPManagementSoft\obj\x86\Debug\网络继电器管理软件.application
+D:\Code\KPManageSoft\KPManageSoft\KPManagementSoft\obj\x86\Debug\网络继电器管理软件.exe
+D:\Code\KPManageSoft\KPManageSoft\KPManagementSoft\obj\x86\Debug\网络继电器管理软件.pdb

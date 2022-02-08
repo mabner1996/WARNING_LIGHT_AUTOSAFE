@@ -1,0 +1,27 @@
+2018-04-17 21:56:55:142   系统启动。。。
+2018-04-17 21:57:58:305   ListeningThread:一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+2018-04-17 21:57:58:329   系统关闭。。。
+2018-04-17 21:57:58:332   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2018-04-17 22:07:16:839   系统启动。。。
+2018-04-17 22:07:54:100   ListeningThread:一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+2018-04-17 22:07:54:116   系统关闭。。。
+2018-04-17 22:07:54:132   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2018-04-17 22:07:54:139   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2018-04-17 22:07:54:144   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2018-04-17 22:07:54:166   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2018-04-17 22:07:54:175   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2018-04-17 22:09:04:155   系统启动。。。
+2018-04-17 22:09:38:572   系统关闭。。。
+2018-04-17 22:09:38:588   ListeningThread:一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+2018-04-17 22:09:38:643   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2018-04-17 22:09:38:652   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2018-04-17 22:09:38:660   ListeningThread:无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
