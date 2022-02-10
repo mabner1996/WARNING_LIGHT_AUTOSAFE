@@ -37,40 +37,40 @@ print('指令执行成功!')
 time.sleep(0.5)#休眠0.5秒
 
 #================================================
-print('控制继电器通道1常开断开发送：AT+STACH1=0\\r\\n')
+print('Control relay channel 1 to always switch on：AT+STACH1=0\\r\\n') #控制继电器通道1常开断开发送
 meg = "AT+STACH1=0\r\n"
 tcpCliSock.send(meg.encode())
 recv_data = tcpCliSock.recv(BUFSIZ)
-print('网络继电器应答：')
+print('Relay responding: ') #网络继电器应答：
 print(recv_data.decode('gbk'))
-print('指令执行成功!')
+print('Command executed succesfully!') #指令执行成功!
 time.sleep(0.5)#休眠0.5秒
 
 #================================================
-print('控制继电器通道1常开接口吸合15秒后断开发送：AT+STACH1=1,15\\r\\n')
+print('Control relay channel 1 to switch on 15 seconds, and then break and send：AT+STACH1=1,15\\r\\n') #控制继电器通道1常开接口吸合15秒后断开发送
 meg = "AT+STACH1=1,15\r\n"
 tcpCliSock.send(meg.encode())
 recv_data = tcpCliSock.recv(BUFSIZ)
-print('网络继电器应答：')
+print('Relay responding: ') #网络继电器应答：
 print(recv_data.decode('gbk'))
-print('指令执行成功!')
+print('Command executed successfully!') #指令执行成功!
 time.sleep(0.5)#休眠0.5秒
 
 #================================================
-print('获取开关量输入接口1的状态发送：AT+OCCH1=?\\r\\n')
+print('Get the status of input port 1 of the switch：AT+OCCH1=?\\r\\n') #获取开关量输入接口1的状态发送
 meg = "AT+OCCH1=?\r\n"
 tcpCliSock.send(meg.encode())
 recv_data = tcpCliSock.recv(BUFSIZ)
-print('网络继电器应答：')
+print('Relay responding:') #网络继电器应答：
 #print(recv_data.replace("\r\n", "\\r\\n").decode('gbk'))
 print(recv_data.decode('gbk'))
-print('指令执行成功!')
+print('Command executed successfully!') #指令执行成功!
 time.sleep(0.5)#休眠0.5秒
   
-print('关闭客户端连接！')
-tcpCliSock.close() #关闭与继电器的连接
-tcpSerSock.close() #关闭服务器socket
-print('测试完成！')
+print('Closing the client connection!') #关闭客户端连接！
+tcpCliSock.close() #Close the connection with relay (关闭与继电器的连接)
+tcpSerSock.close() #Close the server socket (关闭服务器socket)
+print('Test finished') #测试完成！
 
 print('更多控制指令的详细解释请查阅《AT指令表.PDF》')
 print('本Demo仅用于开发参考，不能直接用于商业项目实施！')
