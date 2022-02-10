@@ -5,33 +5,33 @@ from time import ctime
 import time
 
 HOST = '192.168.1.122'
-PORT = 6000 #端口号
-BUFSIZ = 1024 #接收数据缓冲大小
+PORT = 6000 #端口号 port
+BUFSIZ = 1024 #接收数据缓冲大小 buffer size
 ADDR = (HOST, PORT)
 
-print('本机作为服务端')
-print('本机IP：')
+print('This will be the host server') #本机作为服务端
+print('IP of this Host：') #本机IP：'
 print(HOST)
-print('端口：')
+print('Port：') #端口：
 print(PORT)
-tcpSerSock = socket(AF_INET, SOCK_STREAM) #创建TCP服务器套接字
-tcpSerSock.bind(ADDR) #套接字与地址绑定
-tcpSerSock.listen(5) #监听连接，同时连接请求的最大数目
+tcpSerSock = socket(AF_INET, SOCK_STREAM) #创建TCP服务器套接字 create TCP server rocket
+tcpSerSock.bind(ADDR) #套接字与地址绑定 bound socket to address
+tcpSerSock.listen(5) #监听连接，同时连接请求的最大数目the maximum number of simultaneous connectoon request (how many can it listen at the same time)
 
 
-print('等待客户机的连接')
-tcpCliSock, addr = tcpSerSock.accept()  #接收继电器端连接请求
-print('连接成功')
-print('客户端IP与端口如下:')
+print('waiting for client to connect') #等待客户机的连接
+tcpCliSock, addr = tcpSerSock.accept()  #接收继电器端连接请求 receiver terminal connection request from relay
+print('Connected successfully') #连接成功
+print('IP and port of the client:')#客户端IP与端口如下:
 print(addr)
 
-print('TCP-KP系列网络继电器功能测试：')
+print('TCP-KP Series Network Relay Functional Test：') #TCP-KP系列网络继电器功能测试：
 
-print('控制继电器通道1常开吸合发送：AT+STACH1=1\\r\\n')
+print('Control relay channel 1 normally open pull-in send：AT+STACH1=1\\r\\n') #控制继电器通道1常开吸合发送：AT+STACH1=1\\r\\n
 meg = "AT+STACH1=1\r\n"
 tcpCliSock.send(meg.encode())
 recv_data = tcpCliSock.recv(BUFSIZ)
-print('网络继电器应答：')
+print('The network relay networks') #网络继电器应答：
 print(recv_data.decode('gbk'))
 print('指令执行成功!')
 time.sleep(0.5)#休眠0.5秒
