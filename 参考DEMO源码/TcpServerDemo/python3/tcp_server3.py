@@ -4,7 +4,9 @@ from socket import *
 from time import ctime
 import time
 
-HOST = '192.168.1.122'
+#HOST = '192.168.1.122'
+HOST = '192.168.0.100'
+#HOST = '169.254.242.115'
 PORT = 6000 #端口号 port
 BUFSIZ = 1024 #接收数据缓冲大小 buffer size
 ADDR = (HOST, PORT)
